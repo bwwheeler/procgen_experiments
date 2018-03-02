@@ -1,5 +1,5 @@
 #/usr/bin/env python
-
+#v0.1
 import random, time
 
 mapHeight = 30
